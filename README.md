@@ -1,6 +1,6 @@
 # React Login Cadastro
 
-Este é um projeto simples de autenticação e cadastro em React.
+Este é um projeto simples de login e cadastro em React.
 
 ## Funcionalidades
 
