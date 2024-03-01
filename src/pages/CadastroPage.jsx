@@ -26,10 +26,9 @@ const CadastroPage = () => {
           Senha: 
           <input type="password" value={password} onChange={(e) => setPassword(e.target.value)} />
         </label>
-        <button type="button" onClick={handleLogin}>
+        <button onClick={handleLogin}>
           Cadastrar
         </button>
-       
       </form>
     </div>
   );

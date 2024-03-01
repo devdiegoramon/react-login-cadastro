@@ -2,6 +2,8 @@
 
 Este é um projeto simples de autenticação e cadastro em React.
 
+Debug: https://devdiegoramon.github.io/react-login-cadastro/
+
 ## Funcionalidades
 
 - Página de Login
